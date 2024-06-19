@@ -1,2 +1,1 @@
-# Algorithm-Project
-پروژه‌ی پایانی درس تحلیل و طراحی الگوریتم‌ها - تیر ماه 1402 
+# String Matching (Algorithm Project)
